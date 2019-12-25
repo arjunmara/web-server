@@ -76,5 +76,5 @@ app.get('*', (req, res) => {
 })
 const port = 3000
 app.listen(port, () => {
-    console.log(`Starting node server ${port}`)
+    console.log(`Starting The server ${port}`)
 })
